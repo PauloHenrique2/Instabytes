@@ -5,9 +5,8 @@ import { getUsuarioPorNome, removerUsuarioPorNome } from "./src/models/usuariosM
 
 // Cria uma instância da aplicação Express.
 const app = express();
-// routes(app);
-userRoutes(app);
-getUsuarioPorNome("Pedro Henrique");
+routes(app);
+
 
 // Inicia o servidor na porta 3000.
 app.listen(3000, () => {

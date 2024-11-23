@@ -1,1 +1,1 @@
-Obs: Este projeto foi criado a partir da imersão back-end proporcionada pela Alura no ano de 2024.
+Obs: este projeto foi criado a partir do conteúdo da imersão back-end proporcionada pela Alura no ano de 2024.
